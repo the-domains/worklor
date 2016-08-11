@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-11T19:50:19.329Z'
+datePublished: '2016-08-11T23:00:23.795Z'
 sourcePath: _posts/2016-04-16-interview-artist-ryan-mcginness-on-designing-for-hennessy.md
 inFeed: true
 isBasedOnUrl: 'http://www.coolhunting.com/design/ryan-mcginness-hennessy-bottle'
@@ -17,7 +17,8 @@ keywords:
   - brand
 related: []
 author: []
-dateModified: '2016-08-11T19:50:18.114Z'
+via: {}
+dateModified: '2016-08-11T23:00:22.035Z'
 title: 'Interview: Artist Ryan McGinness on Designing for Hennessy'
 app_links: []
 publisher:
@@ -25,18 +26,12 @@ publisher:
   name: Cool Hunting
   favicon: 'http://assets.coolhunting.com/favicon.ico'
   domain: www.coolhunting.com
-description: >-
-  Despite the fact that he works across multiple artistic mediums, it's very
-  easy to discern the work of NYC-based artist Ryan McGinness. In addition to
-  his iconic symbol-driven body of work, his experimental Instagram and the
-  depths of his oftentimes ornate paintings, McGinness recently took to
-  designing a special limited edition bottle for luxury cognac brand Hennessy.
+description: Coworking Space Singapore
 inLanguage: en
 inNav: false
-via: {}
 starred: false
 _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><h1>Interview: Artist Ryan McGinness on Designing for Hennessy</h1><p>Despite the fact that he works across multiple artistic mediums, it's very easy to discern the work of NYC-based artist Ryan McGinness. In addition to his iconic symbol-driven body of work, his experimental Instagram and the depths of his oftentimes ornate paintings, McGinness recently took to designing a special limited edition bottle for luxury cognac brand Hennessy.</p><img src="http://assets.coolhunting.com/coolhunting/2015/08/28/large_Hennessy-RM-01.jpg" /></article>
+<article style=""><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b0177dec01e85895d69f554c2d73fc2a73857261.jpg" /><h1>Interview: Artist Ryan McGinness on Designing for Hennessy</h1><p>Coworking Space Singapore</p></article>
